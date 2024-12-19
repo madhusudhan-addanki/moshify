@@ -541,7 +541,7 @@ a {
 }
 
 @media screen and (min-width: 768px) {
-  .grid {
+  .callout .grid {
     grid-template-columns: 1fr auto;
   }
 
