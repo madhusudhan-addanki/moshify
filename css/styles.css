@@ -907,3 +907,10 @@ a {
     font-size: 1.6rem;
   }
 }
+
+/* callout block */
+.callout {
+  position: relative;
+  top: 5rem;
+  box-shadow: 0 0 0;
+}
