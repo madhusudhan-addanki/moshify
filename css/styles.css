@@ -415,7 +415,7 @@ a {
   transform: scale(1.15);
 }
 
-@media screen and (mind-width: 1024px) {
+@media screen and (min-width: 1024px) {
   .plan__tittle {
     font-size: 1.4rem;
   }
@@ -488,7 +488,7 @@ a {
   bottom: 10px;
 }
 
-@media screen and (min-widht: 1024px) {
+@media screen and (min-width: 1024px) {
   .quote {
     font-size: 2rem;
   }
