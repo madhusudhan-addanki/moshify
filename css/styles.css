@@ -878,6 +878,10 @@ a {
 }
 
 @media screen and (min-width: 768px) {
+  .footer a {
+    font-size: 1.5rem;
+  }
+
   .footer__sections {
     grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
   }
@@ -905,6 +909,7 @@ a {
 
   .footer__heading {
     font-size: 1.6rem;
+    margin-bottom: 1rem;
   }
 }
 
